@@ -1,0 +1,44 @@
+.navbar {
+    background-color: #3333333f !important;
+    border-radius: 50px !important;
+}
+ 
+.container-fluid {
+    background-color: #333 !important;
+    border-radius: 50px !important;
+}
+
+.logo {
+    width: 150px !important;
+    height: 50px !important;
+}
+
+.btn{
+    border-radius: 100px !important;
+}
+
+.dropdown {
+    margin-right: 30px !important;
+}
+
+body {
+    background-color: #CD853F !important;
+}
+
+.imeg {
+    border-radius: 50px !important;
+    border: solid 3px black !important;
+    transition: transform 1.05 ease;
+}
+
+.imeg:hover {
+    transform: scale(0.9)
+}
+
+.alert-success {
+    background-color: azure !important;
+}
+
+.d-flex {
+    margin-top: 25px !important;
+}

@@ -1,0 +1,30 @@
+.container-fluid {
+    background-color: #333 !important;
+}
+
+body {
+    background-color: #CD853F !important;
+}
+
+.navbar {
+    background-color: #333 !important;
+    border-bottom: 2px solid white !important;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.navbar-toggler {
+    background-color: white !important;
+}
+
+.btn-success {
+    background-color: #333 !important;
+    border: none !important;
+}
+
+.card {
+    border: 1px solid black !important;
+    border-radius: 50px !important;
+}

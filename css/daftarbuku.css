@@ -1,0 +1,30 @@
+.container-fluid {
+    background-color: #333 !important;
+}
+
+.navbar {
+    background-color: #333 !important;
+    border-bottom: 2px solid white !important;
+}
+
+.navbar-toggler {
+    background-color: white !important;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.card {
+    border: 1px solid black !important;
+    transition : transform 0.3 ease ;
+    transition: 0.5s;
+}
+
+.card:Hover {
+    transform: scale(1.03) ;
+    transition: 0.5s;
+}
+
+
+

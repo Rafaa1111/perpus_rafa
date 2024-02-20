@@ -1,0 +1,20 @@
+.container-fluid {
+    background-color: #333 !important ;
+
+
+}
+
+.navbar {
+    background-color: #333 ;
+    border-bottom: 2px solid white !important;
+}
+
+body {
+    background-color: #CD853F !important;
+}
+
+.nav-link {
+    color: white !important ;
+}
+
+
